@@ -9,3 +9,6 @@ print("Welcome to the Cloud Computing Lab!")
 print("My name is:", name)
 print("My course is:", course)
 print("This is my first Python project.")
+
+print("This is my first Git modification!")
+print("I have learned how to use Git and GitHub!")
